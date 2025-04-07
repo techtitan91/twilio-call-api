@@ -5,7 +5,7 @@ A simple Node.js-based REST API that integrates with Twilio to make outbound voi
 
 
 ```bash
-git clone https://github.com/yourusername/twilio-call-api.git
+git clone https://github.com/techtitan91/twilio-call-api.git
 cd twilio-call-api
 ```
 
