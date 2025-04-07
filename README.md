@@ -19,7 +19,9 @@ npm install
 Create a .env file in the root and add:
 
 TWILIO_ACCOUNT_SID=your_twilio_account_sid
+
 TWILIO_AUTH_TOKEN=your_twilio_auth_token
+
 TWILIO_PHONE_NUMBER=your_twilio_verified_twilio_number
 
 ### 3. Run the application
